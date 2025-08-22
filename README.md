@@ -40,7 +40,7 @@
    -d '{"login": "login", "password": "password"}' \
    --cookie-jar cookies.txt
    ```
-5. Указать в `.env` файле URL страницы  VisionLabs и данные COOKIE:
+5. Указать в `.env` файле URL страницы  VisionLabs и данные COOKIE из созданного файла "cookies.txt":
    ```bash
    BASE_URL=http://<ip>:<port>
    SESSION_ID=qwdysqwdtvt
