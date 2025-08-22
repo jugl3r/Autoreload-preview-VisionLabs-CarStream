@@ -20,7 +20,7 @@
 
 1. Клонирование репозитория:
    ```bash
-   git clone git@github.com:jugl3r Autoreload-preview-VisionLabs-CarStream.git
+   git clone git@github.com:jugl3r/Autoreload-preview-VisionLabs-CarStream.git
    cd Autoreload-preview-VisionLabs-CarStream
    ```
 2. Создание виртуального окружения Python (рекомендуется):
